@@ -1,25 +1,34 @@
+###
+Positive mindset
 Due dilligence
-emphasis on correctness
 Know who to ask/who not to ask
 Know how to ask
-Invest in your tools
-  + automate and alias
-Read the error messages
-Read the source code
-Read books
-Keep a jounral (via gist)
-Be gracious for help
-Be eager to help others
-Find an internal project or start one
-Positive mindset
-Promote a culture of learning
-Stand up for yourself
+emphasis on correctness
 Beat up your own code
 Learn git. well.
 Red Green Refactor. Don't do too much at once.
+Get to Know more than just the devs.
+Read books
+Keep a jounral (via gist)
+Be gracious for help
+Read the error messages
+Invest in your tools
+  + automate and alias
+###
+
+
+########
+Treat Your Body Right
+Be eager to help others
+Stand up for yourself
 Be Visible
   + inside your company and inside the community
-Treat Your Body Right
-Get to Know more than just the devs.
-Kaizen
+########
 
+
+##############
+Kaizen
+Read the source code
+Find an internal project or start one
+Promote a culture of learning
+##############
