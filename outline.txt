@@ -1,23 +1,23 @@
 ###
-Positive mindset
-Due dilligence
-Know who to ask/who not to ask
-Know how to ask
+*Positive mindset
+*Due dilligence
+*Know who to ask/who not to ask
+*Know how to ask
 emphasis on correctness
 Beat up your own code
 Learn git. well.
 Red Green Refactor. Don't do too much at once.
-Get to Know more than just the devs.
 Read books
-Keep a jounral (via gist)
-Be gracious for help
-Read the error messages
-Invest in your tools
-  + automate and alias
+*Keep a jounral (via gist)
+*Be gracious for help
+*Read the error messages
+*Invest in your tools
+*  + automate and alias
 ###
 
 
 ########
+Get to Know more than just the devs.
 Treat Your Body Right
 Be eager to help others
 Stand up for yourself
