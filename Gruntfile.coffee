@@ -29,7 +29,7 @@ module.exports = (grunt) ->
         files: ['assets/javascripts/**/*.coffee']
         tasks: ['coffee']
       markup:
-        files: 'boilerplate.html'
+        files: 'index.html'
         tasks: ['default']
 
   grunt.loadNpmTasks 'grunt-contrib-sass'
@@ -37,3 +37,4 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-watch'
 
   grunt.registerTask('default', ['sass', 'coffee'])
+
