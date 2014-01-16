@@ -1,0 +1,21 @@
+Due dilligence
+emphasis on correctness
+Know who to ask/who not to ask
+Know how to ask
+Invest in your tools
+  + automate and alias
+Read the error messages
+Read the source code
+Read books
+Keep a jounral (via gist)
+Be gracious for help
+Be eager to help others
+Find an internal project or start one
+Positive mindset
+Promote a culture of learning
+Stand up for yourself
+Beat up your own code
+Learn git. well.
+Red Green Refactor. Don't do too much at once.
+Be Visible
+Treat Your Body Right
