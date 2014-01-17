@@ -19,16 +19,16 @@ Read books
 ########
 *Get to Know more than just the devs.
 *Treat Your Body Right
-Be eager to help others
-Stand up for yourself
-Be Visible
-  + inside your company and inside the community
+*Be eager to help others
+*Stand up for yourself
+*Be Visible
+*  + inside your company and inside the community
 ########
 
 
 ##############
 Kaizen
-Read the source code
+*Read the source code
 Find an internal project or start one
 Promote a culture of learning
 ##############
