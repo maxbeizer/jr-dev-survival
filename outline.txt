@@ -27,8 +27,8 @@ Read books
 
 
 ##############
-Kaizen
+*Kaizen
 *Read the source code
-Find an internal project or start one
-Promote a culture of learning
+*Find an internal project or start one
+*Promote a culture of learning
 ##############
